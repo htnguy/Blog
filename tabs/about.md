@@ -7,6 +7,7 @@ title: About
 # © 2017-2019 Cotes Chung
 # MIT License
 ---
+<img src="/Blog/assets/img/profile/avatar.png" alt="Desktop View" style="display: block;  margin-left: auto; margin-right: auto;  width: 50%;">
 
 I'm currently a student at the University of Louisville double majoring in Computer Science and Computer Engineering. I'm passionate about the field of Cyber Security, but more specifically the offensive security.
 
