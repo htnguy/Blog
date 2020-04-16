@@ -31,7 +31,7 @@ from utils.common import get_yaml
 from utils.common import check_py_version
 
 
-Date = Enum('Date', ('GIT', 'FS'))
+Date = Enum('Date', 'GIT', 'FS')
 
 POSTS_PATH = '_posts'
 
