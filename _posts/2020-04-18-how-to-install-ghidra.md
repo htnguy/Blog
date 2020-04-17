@@ -1,6 +1,6 @@
 ---
 title: "How to Install Ghidra on Ubuntu 19.10"
-date: 2020-04-18 9:00:00 -0500
+date: 2020-04-17 9:00:00 -0500
 categories: [How To, Install Ghidra on Ubuntu 19.10]
 tags: [ghidra, reverse engineering, how to]
 ---

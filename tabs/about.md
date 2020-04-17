@@ -18,3 +18,9 @@ During my time at the University of Louisville J.B. School of Engineering I am h
 ## Self Study
 
 When I have some free time I like to spend time learning more and sharpening my skills. Here are a few platforms that I use to practice and learn different skills in the field of security: Hack-The-Box, PentesterLab, and Pentester Academey. I also have my own homelab where I build on my knowledge about virtualization, linux, networking, offensive/defensive security, and to play around with other tools and operating systems.
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/noahtongate/
+GitHub: https://github.com/Ap3x
+Email: noah.tongate@hotmail.com
