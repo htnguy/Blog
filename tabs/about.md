@@ -21,6 +21,8 @@ When I have some free time I like to spend time learning more and sharpening my 
 
 ## Contact
 
-LinkedIn: https://www.linkedin.com/in/noahtongate/
-GitHub: https://github.com/Ap3x
-Email: noah.tongate@hotmail.com
+> `LinkedIn:` https://www.linkedin.com/in/noahtongate/
+
+> `GitHub:` https://github.com/Ap3x
+
+> `Email:` noah.tongate@hotmail.com
