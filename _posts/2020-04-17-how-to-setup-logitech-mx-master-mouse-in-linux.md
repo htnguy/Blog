@@ -1,6 +1,6 @@
 ---
 title: "How to Setup Logitech MX Master Mouse with Linux"
-date: 2020-04-17 1:58:00 -0400
+date: 2020-04-17 1:58:00 -0500
 categories: [How To, Setup Logitech MX Master Mouse with Linux]
 tags: [logitech, how to, shortcut]
 ---
